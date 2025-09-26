@@ -7,5 +7,5 @@ print("Введите второе число")
 second = int(input())
 while second != int(second):
     print("Введите цифру или число:")
-    secnond = input()
+    second = input()
 print(first + second)
