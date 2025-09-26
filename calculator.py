@@ -12,3 +12,4 @@ print("Введите операцию для чисел: (+, -, /, *)")
 operation = input()
 result = f"{first}{operation}{second}"
 print(f"Результат операции {first} {operation} {second} = {eval(result)}")
+print(result)
