@@ -8,4 +8,4 @@ second = int(input())
 while second != int(second):
     print("Введите цифру или число:")
     second = input()
-print(first + second)
+print(first - second)
